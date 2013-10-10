@@ -37,7 +37,8 @@ var originalPrice = 450;
 var discount = .20;
 var salesTax = .06;
 
-var withoutTax = ;
-var withTax = ;
+var withoutTax = orginalPrice * discount;
+var withTax = originalPrice * discount * salesTax;
 
-console.log("Your" + dresser + " was originally $" + orignalPrice + " but after a %" + discount + ", it is now $" + withoutTax + "without tax, and $" + withTax + ".");
+console.log("Your" + dresser + " was originally $" + orignalPrice + " but after a" + discount + "%, it is now $" + withoutTax + "without tax, and $" + withTax);
+//not sure how to complete this one?
