@@ -1,7 +1,10 @@
-//Variable of Different Types, Numbers, Booleans, and Strings
+//Arrays
 
-var age = 27;
+var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rizzo"]; //0,1,2,3
 
-var isStudent = false;
+muppetNames[1] = "Rizzo";
+muppetNames[2] = "Fozzy";
 
-var firstName = "Bethany";
+var num = 2;
+
+console.log(muppetNames[num]);
