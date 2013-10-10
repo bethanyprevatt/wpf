@@ -1,10 +1,9 @@
-//arrays and expressions
+//prompt and alert
 
-var orangeBins = [234, 567, 883];
+var width = prompt("We are calculating the area of a rectangle. \nPlease enter the width");
+var height = prompt("Please enter the height");
+var area = width * height;
 
-var total = orangeBins[0] + orangeBins[1] + orangeBins[2];
-
-console.log(total);
-
-
-
+//console.log(area);
+var result = "The area of your rectangle is " + area + "sq feet";
+alert(result);
