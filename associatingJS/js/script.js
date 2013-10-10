@@ -1,9 +1,7 @@
-//Javascript
+//Variable of Different Types, Numbers, Booleans, and Strings
 
-var yearBorn = 1985;
-/*
-console.log("Hello World");
-console.log(yearBorn);
-*/
+var age = 27;
 
-alert(yearBorn);
+var isStudent = false;
+
+var firstName = "Bethany";
