@@ -32,12 +32,12 @@ var week = (groceryBills[0] + groceryBills[1] + groceryBills[2] + groceryBills[3
 console.log("You have spent a total of $" + total + " over 5 weeks. That is an average of $" + week + " per week");
 
 //Discounts
+var dresser = "dresser";
 var originalPrice = 450;
 var discount = .20;
 var salesTax = .06;
 
-var withTax = originalPrice * discount;
-var withoutTax = originalPrice * discount * salesTax;
+var withoutTax = ;
+var withTax = ;
 
-console.log("$" + withTax);
-console.log("$" + withoutTax);
+console.log("Your" + dresser + " was originally $" + orignalPrice + " but after a %" + discount + ", it is now $" + withoutTax + "without tax, and $" + withTax + ".");
