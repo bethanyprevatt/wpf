@@ -1,7 +1,9 @@
-//Expressions - Arithmetic
+//Javascript
 
-//area of the triangle is half of the width times the heigh
-var width = 7;
-var height = 8;
-var area = width * height/2;
-console.log(area);
+var yearBorn = 1985;
+/*
+console.log("Hello World");
+console.log(yearBorn);
+*/
+
+alert(yearBorn);
