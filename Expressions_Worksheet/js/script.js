@@ -9,14 +9,14 @@ console.log(age);
 
 //Slice of Pie Part I
 var slices = 8;
-var pizzaOrder = 2;
-var people = 3;
+var pizzaOrder = 4;
+var people = 10;
 
 var result = slices * pizzaOrder/people;
 console.log(result);
 
 //Slice of Pie Part II
 var slices = 8;
-var pizzaOrder = 2;
-var people = 3;
+var pizzaOrder = 4;
+var people = 10;
 
