@@ -1,9 +1,13 @@
-//prompt and alert
+//strings
 
-var width = prompt("We are calculating the area of a rectangle. \nPlease enter the width");
-var height = prompt("Please enter the height");
-var area = width * height;
+//var firstName = "Bethany";
+//var lastName = "Prevatt";
+//var fullName = firstName + " " + lastName;
 
-//console.log(area);
-var result = "The area of your rectangle is " + area + "sq feet";
-alert(result);
+//console.log(fullName);
+
+var a = 6;
+var b = 7;
+
+var result = a + b;
+console.log(result);
