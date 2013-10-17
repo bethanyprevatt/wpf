@@ -5,5 +5,5 @@
 var rating = 89;
 var requiredRating = 90;
 
-(rating > requiredRating) ? console.log("Your website is successful") : console.log("");
+(rating > requiredRating) ? console.log("Your website is successful") : console.log("You will need to boost your ratings!");
 
