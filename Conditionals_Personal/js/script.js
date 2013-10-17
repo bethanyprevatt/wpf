@@ -2,4 +2,7 @@
 
 //budget for groceries
 
+var pay = 1500;
+var groceries = 300;
+
 
