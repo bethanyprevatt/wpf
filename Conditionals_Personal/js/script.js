@@ -11,5 +11,5 @@ if(budget < pay && groceries < pay){
 	console.log("You have enough to go grocery shopping!");
 }else{
 	//if you don't have enough to pay for groceries
-	console.log("You do not have enough to pay for groceries");
+	console.log("You do not have enough to pay for groceries.");
 }
