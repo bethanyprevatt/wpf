@@ -3,7 +3,7 @@
 //budget for groceries
 
 var budget = 400;
-var pay = 1500;
+var pay = 350;
 var groceries = 300;
 
 if(budget < pay && groceries < pay){
