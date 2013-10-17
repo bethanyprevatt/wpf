@@ -5,7 +5,9 @@
 var dogs = 3;
 var allowedDogs = 2;
 
-
+if(dogs > allowedDogs){
+	console.log("You are not allowed to live here!");
+}
 
 
 
