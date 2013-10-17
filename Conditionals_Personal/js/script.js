@@ -2,11 +2,11 @@
 
 //budget for groceries
 
-var budget = 400;
-var pay = 350;
+var budget = 200;
+var pay = 700;
 var groceries = 300;
 
-if(budget < pay && groceries < pay){
+if(budget < pay && groceries < budget){
 	//grocery money and budget money is less than the pay amount
 	console.log("You have enough to go grocery shopping!");
 }else{
