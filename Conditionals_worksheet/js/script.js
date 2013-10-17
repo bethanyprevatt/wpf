@@ -26,3 +26,15 @@ if(username === "JohnSmith" && password === "truck"){
 }else{
 	console.log("Password does not match our records.");
 }
+
+// Tire Pressure
+
+var tirePressue = [27, 28, 32, 30];
+var total = tirePressue[0] + tirePressue[1] + tirePressue[2] + tirePressue[3];
+
+if (total > 108){
+	console.log("The tires pass spec!");
+}else{
+	console.log("Get your tires checked out!");
+}
+
