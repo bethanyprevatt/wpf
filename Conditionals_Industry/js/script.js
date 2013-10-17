@@ -2,5 +2,8 @@
 
 //rating for website
 
+var rating = 89;
+var requiredRating = 90;
+
 
 
