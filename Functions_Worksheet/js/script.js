@@ -12,3 +12,10 @@ console.log("The circumference of the circle is " + a);
 
 //stung
 
+var beeSting = function(pound, stings){
+	var stings = pound * stings;
+	return stings;
+
+}
+var a = beeSting(25, 8.666666667);
+console.log("It takes " + a + " bee stings to kill this animal.");
