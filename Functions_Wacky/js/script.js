@@ -3,4 +3,4 @@
 //
 
 var age = 20;
-(age > 21) ? console.log("You can drink") : console.log("you are too young to drink!");
+(age > 21) ? console.log("You can drink") : console.log("You are too young to drink!");
