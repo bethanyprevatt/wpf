@@ -1,6 +1,6 @@
 // Bethany Prevatt, October 24, 2013, Functions Personal
 
-//Shampoo, conditoner and wash bottle cost
+//Shampoo, conditioner and wash bottle cost
 
 var bottles = function(shampoo, conditioner, wash){
 	var cost = shampoo + conditioner + wash;
