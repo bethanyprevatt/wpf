@@ -7,5 +7,5 @@ var computer = function(cost, amount){
 	return total;
 }
 var a = computer(2500, 25);
-console.log("Total cost for the computers will be " + a + ".");
+console.log("Total cost for the computers will be $" + a + ".");
 
