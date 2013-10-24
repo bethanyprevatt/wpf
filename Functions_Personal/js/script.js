@@ -6,5 +6,5 @@ var bottles = function(shampoo, conditioner, wash){
 	var cost = shampoo + conditioner + wash;
 	return cost;
 }
-var a = cost(5, 10, 8);
+var a = bottles(5, 10, 8);
 console.log("Your total is $" + a);
