@@ -7,7 +7,8 @@ var circle = function(diameter, pie){
 	return circumference; 
 }
 var a = circle(25, 3.14);
-console.log(a);
+console.log("The circumference of the circle is " + a);
 
 
 //stung
+
